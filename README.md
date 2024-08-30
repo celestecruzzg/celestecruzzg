@@ -28,6 +28,7 @@
     <img width='50px' src='https://brandslogos.com/wp-content/uploads/images/large/mysql-logo-1.png' alt="MySQL">
     <img width='50px' src='https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg' alt="SQL Server">
     <img width='50px' src='https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg' alt="Git">
+    <img width='50px' src='https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg' alt="VSC">
   </div>
 
   <h4> Sistemas operativos </h4>
