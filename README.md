@@ -13,7 +13,8 @@
   
   <br />
   <br />
-  Actualmente soy estudiante de Ingeniería en Desarrollo y Gestión de Software Multiplataforma, desde el 2023
+  <h2>Acerca de mi</h2>
+  Actualmente soy estudiante de Ingeniería en Desarrollo y Gestión de Software Multiplataforma, desde el 2023.
   <br />
 
   <h2> Habilidades </h2>
