@@ -6,8 +6,6 @@
 <a href=https://www.instagram.com/celeste_cruzzg/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=celestecruzzg.celestecruzzg)
-[![Github](https://img.shields.io/github/followers/celestecruzzg?label=Follow&style=social)](https://github.com/celestecruzzg)
 <br />
 <br />
 Actualmente soy estudiante de Ingeniería en Desarrollo y Gestión de Software Multiplataforma, desde el 2023
