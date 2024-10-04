@@ -20,7 +20,7 @@
   <h2> Habilidades </h2>
   <h4> Lenguajes de programación, frameworks, bases de datos y herramientas de desarrollo </h4>
   
-  <div style="display: flex; justify-content: center; align-items: center gap: 15px;">
+  <div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
     <img width='50px' src='https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg' alt="PHP">
     <img width='50px' src='https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg' alt="C#">
     <img width='50px' src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' alt="JS">
