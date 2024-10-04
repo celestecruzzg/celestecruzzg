@@ -22,6 +22,8 @@
   
   <div style="display: flex; justify-content: center; gap: 10px;">
     <img width='50px' src='https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg' alt="PHP">
+    <img width='50px' src='https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg' alt="C#">
+    <img width='50px' src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' alt="JS">
     <img width='50px' height='50px' src='https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg' alt="HTML5">
     <img width='50px' height='50px' src='https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg' alt="CSS3">
     <img width='50px' height='50px' src='https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg' alt="Tailwind">
