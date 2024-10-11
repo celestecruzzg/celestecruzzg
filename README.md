@@ -1,4 +1,4 @@
-<br clear="both">
+<body>
 <div style="text-align: center;">
   <h2> Hola, soy Celeste! 
     <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30" alt="gif de saludo">
@@ -18,12 +18,10 @@
   Actualmente soy estudiante de Ingeniería en Desarrollo y Gestión de Software Multiplataforma, desde el 2023.
   <br />
 
-###
-
-<div style="display: flex; justify-content: center; align-items: center; gap: 25px;">
   <h2> Habilidades </h2>
-  <h4> Lenguajes de programación, frameworks, bases de datos y herramientas de desarrollo </h4>
-  <br>
+  <h4 align="left"> Lenguajes de programación, frameworks, bases de datos y herramientas de desarrollo </h4>
+  
+  <div align="left" gap="10px">
     <img width='50px' src='https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg' alt="PHP">
     <img width='50px' src='https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg' alt="C#">
     <img width='50px' src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' alt="JS">
@@ -35,10 +33,11 @@
     <img width='50px' src='https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg' alt="SQL Server">
     <img width='50px' src='https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg' alt="Git">
     <img width='50px' src='https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg' alt="VSC">
+  </div>
+
   <h4> Sistemas operativos </h4>
   <div style="display: flex; justify-content: center; gap: 10px;">
     <img width='50px' src='https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg' alt="Ubuntu">
   </div>
 </div>
-
-<br clear="both">
+</body>
