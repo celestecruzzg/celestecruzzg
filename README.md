@@ -18,6 +18,9 @@
   Actualmente soy estudiante de Ingeniería en Desarrollo y Gestión de Software Multiplataforma, desde el 2023.
   <br />
 
+###
+
+<div align="left">
   <h2> Habilidades </h2>
   <h4> Lenguajes de programación, frameworks, bases de datos y herramientas de desarrollo </h4>
   
