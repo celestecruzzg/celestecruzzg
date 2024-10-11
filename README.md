@@ -1,4 +1,4 @@
-<body>
+<br clear="both">
 <div style="text-align: center;">
   <h2> Hola, soy Celeste! 
     <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30" alt="gif de saludo">
@@ -43,4 +43,5 @@
     <img width='50px' src='https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg' alt="Ubuntu">
   </div>
 </div>
-</body>
+
+<br clear="both">
