@@ -3,7 +3,7 @@
   <h2> Hola, soy Celeste! 
     <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30" alt="gif de saludo">
   </h2>
-  
+  <br>
   <a href="https://www.linkedin.com/in/celeste-gonzalez-cruz-06d122004" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
   </a>
