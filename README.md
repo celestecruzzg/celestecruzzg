@@ -19,22 +19,42 @@
   <br />
 
   <h2> Habilidades </h2>
-  <h4> Lenguajes de programación, frameworks, bases de datos y herramientas de desarrollo </h4>
   
-  <div align="center">
-    <img height='50px' src='https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg' alt='Node.js'>
-    <img width='50px' src='https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg' alt="PHP">
-    <img width='50px' src='https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg' alt="C#">
-    <img width='50px' src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' alt="JS">
-    <img width='50px' height='50px' src='https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg' alt="HTML5">
-    <img width='50px' height='50px' src='https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg' alt="CSS3">
-    <img width='50px' height='50px' src='https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg' alt="Tailwind">
-    <img width='50px' src='https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg' alt="Bootstrap">
-    <img width='50px' src='https://brandslogos.com/wp-content/uploads/images/large/mysql-logo-1.png' alt="MySQL">
-    <img width='50px' src='https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg' alt="SQL Server">
-    <img width='50px' src='https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg' alt="Git">
-    <img width='50px' src='https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg' alt="VSC">
-  </align=>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="39" alt="javascript logo"  />
+  <img width="15" />
+  <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="39" alt="typescript logo"  />
+  <img width="15" />-->
+  <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="39" alt="react logo"  />
+  <img width="15" />-->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="39" alt="html5 logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="39" alt="css3 logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="39" alt="python logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="39" alt="php logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="39" alt="vscode logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" height="39" alt="cplusplus logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="39" alt="nodejs logo"  />
+  <img width="15" />-->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="39" alt="mysql logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="39" alt="mysql logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" height="39" alt="mysql logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="39" alt="mysql logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="39" alt="git logo"  />
+  <img width="15" />
+  <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="39" alt="npm logo"  />
+  <img width="15" />-->
+</div>
+
 
   <h4> Sistemas operativos </h4>
   <div style="display: flex; justify-content: center; gap: 10px;">
