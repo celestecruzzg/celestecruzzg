@@ -56,7 +56,7 @@
 </div>
 
 
-  <h4> Sistemas operativos </h4>
+  <h2> Sistemas operativos </h2>
   <div style="display: flex; justify-content: center; gap: 10px;">
     <img width='50px' src='https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg' alt="Ubuntu">
   </div>
