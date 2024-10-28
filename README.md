@@ -18,6 +18,8 @@
   Actualmente soy estudiante de Ingeniería en Desarrollo y Gestión de Software Multiplataforma, desde el 2023.
   <br />
 
+  [![Celeste's GitHub stats](https://github-readme-stats.vercel.app/api?username=celestecruzzg)](https://github.com/celestecruzzg/github-readme-stats)
+
   <h2> Habilidades </h2>
   
 <div align="center">
