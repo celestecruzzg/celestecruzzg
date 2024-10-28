@@ -62,7 +62,9 @@
   </div>
 </div>
 
-  ## **Stats**
+<div align="center">
+  <h2>Stats</h2>
+  <br />
   <a href="https://github.com/Gurupreet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celestecruzzg&theme=dark&hide_langs_below=1" />
   </a>
@@ -70,4 +72,5 @@
   <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=celestecruzzg&show_icons=true&theme=dracula&line_height=27" alt="**Celes** github stats" />
   </a>
+</div>
 </body>
