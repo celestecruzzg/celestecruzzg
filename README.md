@@ -63,8 +63,10 @@
   <h2> Operating System </h2>
   <div style="display: flex; justify-content: center; gap: 10px;">
     <img width='39px' src='https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg' alt="Ubuntu" />
-    <img width="15" />
-    <img width="39px" src="https://cdn.simpleicons.org/manjaro" />
+    <img width="15px" />
+    <img width="39px" src="https://cdn.simpleicons.org/manjaro" alt="Manjaro" />
+    <img width="15px">
+    <img width="39px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/windows11-original.svg" alt="vwindows logo"  />
   </div>
 </div>
 <br />
