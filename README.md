@@ -62,8 +62,8 @@
 
   <h2> Sistemas operativos </h2>
   <div style="display: flex; justify-content: center; gap: 10px;">
-    <img width='50px' src='https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg' alt="Ubuntu">
-    <img height="50" width="50" src="https://cdn.simpleicons.org/manjaro" />
+    <img width='50px' src='https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg' alt="Ubuntu" />
+    <img width="50" src="https://cdn.simpleicons.org/manjaro" />
   </div>
 </div>
 <br />
