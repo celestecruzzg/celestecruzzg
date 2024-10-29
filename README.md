@@ -1,6 +1,6 @@
 <body>
 <div align="center">
-  <h2> Hola, soy Celeste! 
+  <h2> Hello there, I'm Celeste! 
     <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30" alt="gif de saludo">
   </h2>
   <br>
@@ -14,12 +14,12 @@
   <br />
   <br />
   <br />
-  <h2>Acerca de mi</h2>
+  <h2>About me</h2>
   I'm currently studying Engineering in Multiplatform Software Development and Management, since 2023.   
   <br />
   <br />
   <br />
-  <h2> Habilidades </h2>
+  <h2> Skills </h2>
   
 <div align="center">
   <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="39" alt="typescript logo"  />
@@ -60,7 +60,7 @@
 <br />
 
 
-  <h2> Sistemas operativos </h2>
+  <h2> Operating System </h2>
   <div style="display: flex; justify-content: center; gap: 10px;">
     <img width='50px' src='https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg' alt="Ubuntu" />
     <img width="50" src="https://cdn.simpleicons.org/manjaro" />
