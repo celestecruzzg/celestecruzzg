@@ -66,7 +66,7 @@
     <img width="15px" />
     <img width="39px" src="https://cdn.simpleicons.org/manjaro" alt="Manjaro" />
     <img width="15px">
-    <img width="39px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/windows11-original.svg" alt="windows logo"  />
+    <img width="39px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" alt="windows logo"  />
   </div>
 </div>
 <br />
