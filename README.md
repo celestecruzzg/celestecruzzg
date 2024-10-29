@@ -11,13 +11,14 @@
   <a href="https://www.instagram.com/celeste_cruzzg/" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;" />
   </a>
-  
+  <br />
   <br />
   <br />
   <h2>Acerca de mi</h2>
-  Actualmente soy estudiante de Ingeniería en Desarrollo y Gestión de Software Multiplataforma, desde el 2023.
+  I'm currently studying Engineering in Multiplatform Software Development and Management, since 2023.   
   <br />
-
+  <br />
+  <br />
   <h2> Habilidades </h2>
   
 <div align="center">
@@ -54,6 +55,9 @@
   <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="39" alt="npm logo"  />
   <img width="15" />-->
 </div>
+<br />
+<br />
+<br />
 
 
   <h2> Sistemas operativos </h2>
@@ -61,6 +65,9 @@
     <img width='50px' src='https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg' alt="Ubuntu">
   </div>
 </div>
+<br />
+<br />
+<br />
 
 <div align="center">
   <h2>Stats</h2>
